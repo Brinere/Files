@@ -1,0 +1,4 @@
+A household robot, for example, should be able to find its way around new obstacles like baby gates or rearranged furniture.
+Her team created an AI that without human input can identify when it needs further training. 
+Each time the AI runs into a new obstacle, it takes stock of how its surroundings are different from what it expected. 
+Then it devises various workarounds and calculates the outcome of each. Afterward, it chooses the best solution.
