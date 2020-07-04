@@ -1,0 +1,15 @@
+D:\Cryptology\Kurs\Kurs\bin\Debug\Kurs.exe.config
+D:\Cryptology\Kurs\Kurs\bin\Debug\Kurs.exe
+D:\Cryptology\Kurs\Kurs\bin\Debug\Kurs.pdb
+D:\Cryptology\Kurs\Kurs\obj\Debug\Kurs.csprojAssemblyReference.cache
+D:\Cryptology\Kurs\Kurs\obj\Debug\MainWindow.g.cs
+D:\Cryptology\Kurs\Kurs\obj\Debug\App.g.cs
+D:\Cryptology\Kurs\Kurs\obj\Debug\Kurs_MarkupCompile.cache
+D:\Cryptology\Kurs\Kurs\obj\Debug\Kurs_MarkupCompile.lref
+D:\Cryptology\Kurs\Kurs\obj\Debug\MainWindow.baml
+D:\Cryptology\Kurs\Kurs\obj\Debug\Kurs.g.resources
+D:\Cryptology\Kurs\Kurs\obj\Debug\Kurs.Properties.Resources.resources
+D:\Cryptology\Kurs\Kurs\obj\Debug\Kurs.csproj.GenerateResource.cache
+D:\Cryptology\Kurs\Kurs\obj\Debug\Kurs.csproj.CoreCompileInputs.cache
+D:\Cryptology\Kurs\Kurs\obj\Debug\Kurs.exe
+D:\Cryptology\Kurs\Kurs\obj\Debug\Kurs.pdb
